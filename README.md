@@ -71,9 +71,6 @@ The AI-Powered Resume Screening and Ranking System is designed to automate and o
 - **Job Portals**: Enhances resume-job matching accuracy.
 - **AI Enthusiasts & Students**: Learn NLP-based resume analysis.
 
-## Contributors
-- **Your Name** (your-email@example.com)
-
 ## License
 This project is licensed under the **MIT License**.
 
